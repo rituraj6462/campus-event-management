@@ -1,0 +1,8 @@
+{
+  "name": "campus-events",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A full-stack campus event management platform",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "engines": { "node": ">=22" }
+}
