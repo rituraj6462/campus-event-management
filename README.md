@@ -20,8 +20,8 @@ Gather is a responsive, full-stack campus event platform built for the ACM Stude
 ## Run locally
 
 ```bash
-git clone <repository-url>
-cd campus-events
+git clone https://github.com/rituraj6462/campus-event-management.git
+cd campus-event-management
 node server.js
 ```
 
